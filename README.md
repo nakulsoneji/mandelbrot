@@ -11,4 +11,15 @@
 ## Julia Set (Re(c)=-1.3, Im(c)=0)
 <img width="795" height="595" alt="image" src="https://github.com/user-attachments/assets/7a925150-288a-441e-8683-d06e958afff9" />  
 
+## More Pictures
+### Seahorse Valley
+<img width="796" height="600" alt="image" src="https://github.com/user-attachments/assets/20e460f7-0fe5-4ca8-8553-4f55113cbfde" />  
+  
+### Mini Mandelbrots
+<img width="796" height="595" alt="image" src="https://github.com/user-attachments/assets/383f9104-591a-45eb-8394-2492dadce0e1" />  
+
+### Spiral-like structure
+<img width="796" height="595" alt="image" src="https://github.com/user-attachments/assets/395883bc-6015-4070-af54-762ab9669617" />
+
+
 
